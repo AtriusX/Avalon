@@ -6,7 +6,7 @@ spring-boot = "3.3.3"
 spring-dependency-management = "1.1.6"
 kotest-core = "5.9.1"
 kotest-spring = "1.3.0"
-mockk = "1.13.12"
+mockk = "1.13.13"
 detekt = "1.23.7"
 
 [plugins]
